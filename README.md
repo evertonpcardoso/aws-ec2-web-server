@@ -23,5 +23,6 @@ Servidor acessível via navegador com IP público.
 
 
 ### 🔹 Aplicação rodando
-![Site](<img width="986" height="618" alt="site-online" src="https://github.com/user-attachments/assets/fb894523-c36e-4dec-a778-a1023f5a39ea" />)
+![Site](<img width="986" height="618" alt="site-online" src="https://github.com/user-attachments/assets/739b94fe-d05e-48cf-867f-bad09c008ff8" />
+
 
