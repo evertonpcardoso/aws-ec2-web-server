@@ -18,11 +18,11 @@ Servidor acessível via navegador com IP público.
 
 
 ## Evidência
-### 🔹 Instância EC2
+### Instância EC2
 ![EC2](<img width="1517" height="403" alt="ec2-running" src="https://github.com/user-attachments/assets/59f4f6a4-f5b8-435c-a568-c4536674cfba" />
 
 
-### 🔹 Aplicação rodando
+### Aplicação rodando
 ![Site](<img width="986" height="618" alt="site-online" src="https://github.com/user-attachments/assets/739b94fe-d05e-48cf-867f-bad09c008ff8" />
 
 
